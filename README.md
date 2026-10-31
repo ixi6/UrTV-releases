@@ -2,7 +2,7 @@
 
 تطبيقان مستقلان للشاشة الرئيسية وشاشة التوقف على Android TV وGoogle TV، لأندرويد 8 فأحدث.
 
-- [الإصدار المستقر 4.3 — البناء 8](https://github.com/ixi6/UrTV-releases/releases/tag/apk-latest).
+- [الإصدار المستقر 4.4 — البناء 12](https://github.com/ixi6/UrTV-releases/releases/tag/apk-latest).
 - [الإصدار التجريبي 4.4 — البناء 12](https://github.com/ixi6/UrTV-releases/releases/tag/apk-next).
 
 يتضمن 4.4 صفحة تحديث جديدة بنسبة تنزيل فعلية، وبطاقات «ما الجديد؟» بحسب تغييرات الإصدار، وإعادة المحاولة، وإطار تركيز خفيف حول التطبيق.
